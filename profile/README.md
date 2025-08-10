@@ -16,5 +16,6 @@ Welcome to **CloudQuack**, your dependable platform for hosting a wide range of 
 
 ## **About CloudQuack**
 
-Learn more and get started at [cloudquack.pro](https://cloudquack.pro)
+Learn more and get started at [cloudquack.pro](https://cloudquack.pro)  
 Join our Discord server: [discord.gg/wdDED7nVKv](https://discord.gg/wdDED7nVKv)
+
